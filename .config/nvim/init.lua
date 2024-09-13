@@ -1,0 +1,2 @@
+require("myNvimConfig")
+require("organizerConfig")

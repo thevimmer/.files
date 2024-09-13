@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Media Player
+Icon=mpv
+Exec=mpv %F
